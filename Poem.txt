@@ -12,3 +12,5 @@ Hey rainbow!
  yellow
  
  are attractive!!
+ 
+ Rainbow is now integrated with unicorn.
