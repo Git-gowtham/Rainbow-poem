@@ -1,4 +1,4 @@
-Hey rainbow
+Hey rainbow!
  Pink
  
  Orange
@@ -6,5 +6,9 @@ Hey rainbow
  WHite
  
  Blue 
+ 
+ Green
+ 
+ yellow
  
  are attractive!!
